@@ -1,0 +1,8 @@
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\bin\Debug\Messages.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\bin\Debug\Messages.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\bin\Debug\NServiceBus.Core.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\obj\Debug\Messages.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\obj\Debug\Messages.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache

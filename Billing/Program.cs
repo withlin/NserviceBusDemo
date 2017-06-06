@@ -1,0 +1,41 @@
+﻿using System;
+using System.Threading.Tasks;
+using Messages;
+using NServiceBus;
+
+namespace Billing
+{
+    class Program
+    {
+        static void Main()
+        {
+            AsyncMain().GetAwaiter().GetResult();
+        }
+
+        static async Task AsyncMain()
+        {
+            Console.Title = "Billing";
+
+            var endpointConfiguration = new EndpointConfiguration("Billing");
+            //也可以用mssql做存储
+            var transport = endpointConfiguration.UseTransport<MsmqTransport>();
+
+            var routing = transport.Routing();
+            routing.RegisterPublisher(typeof(OrderPlaced), "Sales");
+
+            endpointConfiguration.UseSerialization<JsonSerializer>();
+            endpointConfiguration.UsePersistence<InMemoryPersistence>();
+            endpointConfiguration.SendFailedMessagesTo("error");
+            endpointConfiguration.EnableInstallers();
+
+            var endpointInstance = await Endpoint.Start(endpointConfiguration)
+                .ConfigureAwait(false);
+
+            Console.WriteLine("按Enter键退出...");
+            Console.ReadLine();
+
+            await endpointInstance.Stop()
+                .ConfigureAwait(false);
+        }
+    }
+}

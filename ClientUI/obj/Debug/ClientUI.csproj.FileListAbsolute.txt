@@ -1,0 +1,10 @@
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\Messages.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\NServiceBus.Core.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\Messages.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\NServiceBus.Core.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\bin\Debug\NServiceBus.Core.xml
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\ClientUI\obj\Debug\ClientUI.pdb

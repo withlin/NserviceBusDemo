@@ -1,0 +1,10 @@
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\Billing.exe
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\Billing.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\Messages.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\NServiceBus.Core.dll
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\Messages.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\NServiceBus.Core.pdb
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\bin\Debug\NServiceBus.Core.xml
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\obj\Debug\Billing.exe
+C:\Users\WithLin\Downloads\intro-to-nservicebus-5-retrying-errors\Billing\obj\Debug\Billing.pdb
